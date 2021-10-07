@@ -1,0 +1,19 @@
+name: HideRank
+description: Toggle your rank prefix on / off.
+
+author: SavageAvocado
+website: https://www.savagedev.net/
+
+version: ${version}
+main: net.savagedev.hiderank.HideRank
+
+depend: [ Vault ]
+
+commands:
+  hiderank:
+    permission: hiderank.use
+    aliases: [ hider, hr ]
+
+permissions:
+  hiderank.use:
+    default: op

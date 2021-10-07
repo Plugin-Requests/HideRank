@@ -1,0 +1,6 @@
+messages:
+  already-default: '&cYou are already default rank.'
+  rank-hidden: '&aRank hidden.'
+  rank-unhidden: '&aRank unhidden.'
+
+default-rank: 'default'
